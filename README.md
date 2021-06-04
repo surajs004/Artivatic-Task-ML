@@ -1,1 +1,1 @@
-# Artivatic-Task-ML
+# Bank defaulters prediction
